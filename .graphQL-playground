@@ -1,0 +1,35 @@
+----------------------------------Queries:--------------------------------------
+{
+  frameworks {
+   title
+  }
+  framework(title: "Vue") {
+    git,
+    stars,
+    developers {
+      name
+    }
+  }
+}
+--------------------------------------------------------------------------------
+fragment frameworkFragment on Framework {
+  id, name, git, stars, description, avatar
+}
+
+{
+  frameworks { ...frameworkFragment }
+}
+----------------------------------Mutations:------------------------------------
+mutation {
+   addFramework(name: "Angular", git: "https://github.com/angular/angular") {
+    name,
+    git
+  }
+}
+--------------------------------------------------------------------------------
+mutation {
+    removeFramework(id:11) {
+    name,
+    git
+  }
+}

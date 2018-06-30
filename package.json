@@ -5,14 +5,20 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon task1.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.0.0-rc.0",
-    "graphql": "^0.13.2",
     "nodemon": "^1.17.5"
+  },
+  "devDependencies": {
+    "apollo-server": "^2.0.0-rc.5",
+    "axios": "^0.18.0",
+    "dotenv": "^6.0.0",
+    "graphql": "^0.13.2",
+    "pg": "^7.4.3",
+    "sequelize": "^4.38.0"
   }
 }

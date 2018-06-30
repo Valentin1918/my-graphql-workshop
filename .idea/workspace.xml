@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b5f4f32-df85-4883-9cdf-3cf45095290d" name="Default" comment="" />
+    <list default="true" id="8b5f4f32-df85-4883-9cdf-3cf45095290d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,11 +18,65 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="38" lean-forward="true" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+              <folding>
+                <marker date="1530345678000" expanded="true" signature="56:245" ph="//..." />
+                <marker date="1530345678000" expanded="true" signature="260:420" ph="[...]" />
+                <marker date="1530345678000" expanded="true" signature="264:350" ph="{&quot;title&quot;: 'Harry Potter and the Chamber of Secrets'...}" />
+                <marker date="1530345678000" expanded="true" signature="354:418" ph="{&quot;title&quot;: 'Jurassic Park'...}" />
+                <marker date="1530345678000" expanded="true" signature="422:548" ph="//..." />
+                <marker date="1530345678000" expanded="true" signature="697:749" ph="type...{&#10;    title: String&#10;    author: String&#10;  }" />
+                <marker date="1530345678000" expanded="true" signature="702:706" ph="Book...Book" />
+                <marker date="1530345678000" expanded="true" signature="707:749" ph="{...}" />
+                <marker date="1530345678000" expanded="true" signature="713:718" ph="title...title" />
+                <marker date="1530345678000" expanded="true" signature="720:726" ph="String...String" />
+                <marker date="1530345678000" expanded="true" signature="731:737" ph="author...author" />
+                <marker date="1530345678000" expanded="true" signature="739:745" ph="String...String" />
+                <marker date="1530345678000" expanded="true" signature="860:894" ph="type...{&#10;    books: [Book]&#10;  }" />
+                <marker date="1530345678000" expanded="true" signature="865:870" ph="Query...Query" />
+                <marker date="1530345678000" expanded="true" signature="871:894" ph="{...}" />
+                <marker date="1530345678000" expanded="true" signature="877:882" ph="books...books" />
+                <marker date="1530345678000" expanded="true" signature="885:889" ph="Book...Book" />
+                <marker date="1530345678000" expanded="true" signature="899:1025" ph="//..." />
+                <marker date="1530345678000" expanded="true" signature="1044:1083" ph="{...}" />
+                <marker date="1530345678000" expanded="true" signature="1055:1072" ph="{...}" />
+                <marker date="1530345678000" expanded="true" signature="1087:1260" ph="//..." />
+                <marker date="1530345678000" expanded="true" signature="1319:1442" ph="//..." />
+                <marker date="1530345678000" expanded="true" signature="1477:1488" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -59,6 +119,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.lang.jsgraphql.ide.injection.JSGraphQLLanguageInjectionUtil.gql" value="apollo" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530346687054</updated>
-      <workItem from="1530346688405" duration="146000" />
+      <workItem from="1530346688405" duration="1003000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146000" />
+    <option name="totallyTimeSpent" value="1003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -99,10 +167,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="GraphQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -123,5 +192,47 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="38" lean-forward="true" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+          <folding>
+            <marker date="1530345678000" expanded="true" signature="56:245" ph="//..." />
+            <marker date="1530345678000" expanded="true" signature="260:420" ph="[...]" />
+            <marker date="1530345678000" expanded="true" signature="264:350" ph="{&quot;title&quot;: 'Harry Potter and the Chamber of Secrets'...}" />
+            <marker date="1530345678000" expanded="true" signature="354:418" ph="{&quot;title&quot;: 'Jurassic Park'...}" />
+            <marker date="1530345678000" expanded="true" signature="422:548" ph="//..." />
+            <marker date="1530345678000" expanded="true" signature="697:749" ph="type...{&#10;    title: String&#10;    author: String&#10;  }" />
+            <marker date="1530345678000" expanded="true" signature="702:706" ph="Book...Book" />
+            <marker date="1530345678000" expanded="true" signature="707:749" ph="{...}" />
+            <marker date="1530345678000" expanded="true" signature="713:718" ph="title...title" />
+            <marker date="1530345678000" expanded="true" signature="720:726" ph="String...String" />
+            <marker date="1530345678000" expanded="true" signature="731:737" ph="author...author" />
+            <marker date="1530345678000" expanded="true" signature="739:745" ph="String...String" />
+            <marker date="1530345678000" expanded="true" signature="860:894" ph="type...{&#10;    books: [Book]&#10;  }" />
+            <marker date="1530345678000" expanded="true" signature="865:870" ph="Query...Query" />
+            <marker date="1530345678000" expanded="true" signature="871:894" ph="{...}" />
+            <marker date="1530345678000" expanded="true" signature="877:882" ph="books...books" />
+            <marker date="1530345678000" expanded="true" signature="885:889" ph="Book...Book" />
+            <marker date="1530345678000" expanded="true" signature="899:1025" ph="//..." />
+            <marker date="1530345678000" expanded="true" signature="1044:1083" ph="{...}" />
+            <marker date="1530345678000" expanded="true" signature="1055:1072" ph="{...}" />
+            <marker date="1530345678000" expanded="true" signature="1087:1260" ph="//..." />
+            <marker date="1530345678000" expanded="true" signature="1319:1442" ph="//..." />
+            <marker date="1530345678000" expanded="true" signature="1477:1488" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

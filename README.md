@@ -1,2 +1,0 @@
-# graphql-workshop
-graphql-workshop
